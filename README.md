@@ -16,9 +16,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeryStone69&layout=compact)](https://github.com/VeryStone69/github-readme-stats)
 
-### Follow me:
-
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alexunder-koptsevich)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/verystone)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/verystone69)  
+<h3 align="center">Follow me:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/alexunder-koptsevich"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
+  <a href="https://t.me/verystone"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'></a>
+  <a href="https://www.codewars.com/users/verystone69"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='30'></a>
+</div>
 
 <!--
 **VeryStone69/VeryStone69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
