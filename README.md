@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/alexunder-koptsevich"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'></a>
   <a href="https://t.me/verystone"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='30'></a>
   <a href="https://www.codewars.com/users/verystone69"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='30'></a>
+  <a href="https://instagram.com/verystone69?igshid=YmMyMTA2M2Y="><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'></a>
 </div>
 
 <!--
