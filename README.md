@@ -3,17 +3,21 @@
 <h3 align="center">I'm a beginner Front-End Developer</h3>
 
 ### Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![TypeScript](https://img.shields.io/badge/-React-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![TypeScript](https://img.shields.io/badge/-React-000?&logo=TypeScript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+
 <!--![WEBPACK](https://img.shields.io/badge/-WEBPACK-000?&logo=WEBPACK)
  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express-000?logo=express) -->
 <br />
+<a href="https://github.com/VeryStone69/codewars_tasks">My codewars repository with tasks</a>
+<img src="https://www.codewars.com/users/verystone69/badges/small"/>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeryStone69&layout=compact)](https://github.com/VeryStone69/github-readme-stats)
 
