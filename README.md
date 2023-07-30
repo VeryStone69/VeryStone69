@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Aliaksandr Koptsevich
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a beginner Front-End Developer</h3>
+<h3 align="center">I'm a Front-End Developer</h3>
 
 ### Languages and Tools:
 ![TypeScript](https://img.shields.io/badge/-React-000?&logo=TypeScript)
