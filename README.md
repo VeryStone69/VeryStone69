@@ -15,7 +15,7 @@
 ![Express.js](https://img.shields.io/badge/-Express-000?logo=express) -->
 <br />
 <a href="https://github.com/VeryStone69/codewars_tasks">My codewars repository with tasks</a>
-<img src="https://www.codewars.com/users/verystone69/badges/small"/>
+<img src="https://www.codewars.com/users/verystone69/badges/large"/>
 
 
 
